@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\code\git\PermissionManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\code\git\PermissionManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_0304ce3c5a55a37e11972683b48f40001f03331e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\code\git\PermissionManager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\code\git\PermissionManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_89688dfa50f422d837b270d037fe411e05040308\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\code\git\PermissionManager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\code\git\PermissionManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_6407fc12d90e6642aa61c844acf5b3bb920a5100\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\code\git\PermissionManager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\code\git\PermissionManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_478c5ae65543d01d8c2b6a9dab405f8be4007910\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\code\git\PermissionManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fba134cd55c93a7844d368099dbb7e852f97eab9">
+        <dex dex="E:\code\git\PermissionManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d49e12d24058f27e05984a741822b6f1a173ae57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\code\git\PermissionManager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\code\git\PermissionManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_4b18a6ba872f031cfd7d12de4cae35c1f6820ae5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\code\git\PermissionManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8246e6b1f8ecb204e07e2e5b847d6563dca99ea4">
+        <dex dex="E:\code\git\PermissionManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cd53c366e754dc03ead0a3caffa2fec6f7ae4c8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\code\git\PermissionManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\code\git\PermissionManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_aa7f133c1df0285df80bf0af3635dd29b7a55f7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\code\git\PermissionManager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\code\git\PermissionManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_a46f3df0923ab4e4f56039b841bd78cd25ea4305\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\code\git\PermissionManager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\code\git\PermissionManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_c964f73127b2e71bea25ff5570da232e491cbf05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\code\git\PermissionManager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\code\git\PermissionManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_75f0ebcb16b7a7a8d36728b219e2bdeecc0eaafc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="E:\code\git\PermissionManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_eca52502deb48db964b5e6d39d16c5eaa7bb0998\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\code\git\PermissionManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_77bbafad21bc1ac169e6a221a15373f3eab9dd96\classes.dex" />
+    </item>
+
+</items>
